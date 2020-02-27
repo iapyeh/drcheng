@@ -4,11 +4,9 @@
 紀念鄭紹良博士
 ##############
 
+July 6, 1934 – August 16, 2019
+
 \ |IMG1|\ 
-
-.. _h791137197930656d4a307c1b41594e2e:
-
-\ |IMG2|\ **********
 
 .. _ha552d4339442b4514686d7839564:
 
@@ -41,10 +39,6 @@
     <a href="https://drcheng.readthedocs.io/en/latest/003%E6%95%85%E4%BA%BA%E7%95%A5%E6%AD%B7.html" target="_blank">閱讀全文</a>
 
 
-.. |IMG1| image:: static/index_1.png
-   :height: 17 px
-   :width: 432 px
-
-.. |IMG2| image:: static/index_2.jpeg
+.. |IMG1| image:: static/index_1.jpeg
    :height: 665 px
    :width: 465 px
