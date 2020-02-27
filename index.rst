@@ -36,5 +36,5 @@ July 6, 1934 – August 16, 2019
 
 
 .. |IMG1| image:: static/index_1.jpeg
-   :height: 665 px
-   :width: 465 px
+   :height: 504 px
+   :width: 353 px
