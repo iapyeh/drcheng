@@ -35,4 +35,4 @@
 
 .. |REPLACE1| raw:: html
 
-    <div style="text-align:right>黃美玲博士</div>
+    <div style="text-align:right">黃美玲博士</div>
