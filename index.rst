@@ -23,6 +23,14 @@ July 6, 1934 – August 16, 2019
 ******
 
 
+.. toctree:: 
+    :maxdepth: 2
+    :hidden:
+
+    003故人略歷
+    004追思文
+
+
 .. bottom of content
 
 
