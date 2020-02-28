@@ -30,6 +30,8 @@ July 6, 1934 – August 16, 2019
     003故人略歷
     004追思文
 
+    005手足情深如兄如父
+
 
 .. bottom of content
 
