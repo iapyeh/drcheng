@@ -27,4 +27,4 @@
 
 .. |REPLACE1| raw:: html
 
-    <div style="text-align:right>美選</div>
+    <div style="text-align:right">美選</div>
